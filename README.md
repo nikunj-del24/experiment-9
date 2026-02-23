@@ -73,7 +73,17 @@ eye()
 
 Creates an identity matrix (diagonal elements are 1, others are 0).
 
-5. Advantages of NumPy
+5. Arrangement in array.
+
+Provide a range of array using specific limit(start,end,update).
+
+linspace is used to provide range of array using space.
+
+6. Specific operations on array.
+
+Various operations like mean,median,max,min,sum can be performed on array using np.funcname(array).
+
+7. Advantages of NumPy
 
 Faster computation compared to Python lists
 
@@ -83,7 +93,7 @@ Supports mathematical and statistical operations
 
 Easy handling of multi-dimensional data
 
-6. Conclusion
+8. Conclusion
 
 The NumPy library is essential for numerical computing in Python. It provides efficient array operations, built-in mathematical functions, and powerful tools for handling large datasets. Understanding array properties like dimension, shape, size, and data type is fundamental for scientific and engineering applications.
 
